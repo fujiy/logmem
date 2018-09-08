@@ -1,0 +1,22 @@
+{
+  "name": "log",
+  "description": "",
+  "main": "bundle.js",
+  "authors": [
+    "Yuuki Fujihara"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-thermite": "^5.0.0",
+    "purescript-prelude": "^3.0.0",
+    "purescript-react-material-ui": "^1.0.0"
+  }
+}

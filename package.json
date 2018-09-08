@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "npm run purs && npm run rollup",
-    "purs": "psc-package build -- --source-maps",
+    "purs": "pulp build",
     "rollup": "rollup --config"
   },
   "author": "Yuuki Fujihara",

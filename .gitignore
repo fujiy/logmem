@@ -8,4 +8,5 @@
 /.purs*
 /.psa*
 
-output.js
+bundle.js
+bundle.js.map
